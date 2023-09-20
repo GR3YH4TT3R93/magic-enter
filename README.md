@@ -8,10 +8,12 @@ is specified in a git directory, `git status` is executed; in other directories,
 
 ```zsh
 # defaults
-MAGIC_ENTER_GIT_COMMAND='git status -u .'
-MAGIC_ENTER_OTHER_COMMAND='ls -lh .'
+MAGIC_ENTER_GIT_COMMAND='gst'
+MAGIC_ENTER_OTHER_COMMAND='l'
 
 plugins=(... magic-enter)
 ```
 
-**Maintainer:** [@dufferzafar](https://github.com/dufferzafar)
+**Maintainer:** [@GR3YH4TT3R93](https://github.com/GR3YH4TT3R93)
+
+**Creator:** [@dufferzafar](https://github.com/dufferzafar)
